@@ -1,1 +1,0 @@
-# AIT Formula Project
